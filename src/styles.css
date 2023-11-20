@@ -70,3 +70,8 @@ p {
   width: 100%;
   height: auto;
 }
+@media (max-width: 896px) {
+  img {
+    display: none;
+  }
+}
